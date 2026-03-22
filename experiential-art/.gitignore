@@ -16,4 +16,4 @@ yarn-error.log
 *.swo
 *~
 .cache/
-
+public/models/*.glb
